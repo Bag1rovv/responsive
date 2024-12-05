@@ -1,0 +1,29 @@
+body{
+    background: url(https://i1.pickpik.com/photos/659/527/691/adult-beauty-blur-cute-558a75a98741c54989dbdfc8ce276cac.jpg);
+    background-size: cover;
+    height: 800px;
+    padding: 50px;
+}
+.title{
+    color: white;
+    margin-top: 100px;
+    font-size: 55px;
+}
+.text{
+    color: white;
+    margin-top: 40px;
+    width: 600px;
+}
+.btn{
+     background-color: white;
+     border: none;
+     border-radius: 5px;
+     font-size: 17px;
+}
+.nav-link{
+    color: white;
+
+}
+.navbar-brand{
+    color: white;
+}
